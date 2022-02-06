@@ -1,3 +1,4 @@
 Name: Vikram
 Profession: Dev
-Ed: Bsc
+Education: Bsc
+YOP: 2019
